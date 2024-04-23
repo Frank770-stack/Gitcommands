@@ -1,14 +1,14 @@
 # GIT COMMANDS
-1. git init: Initializes a new Git repository in the current directory.
-2. git clone <repository>: Clones a repository into a new directory.
-3. git add <file>: Adds a file to the staging area.
-4. git add .: Adds all changes in the working directory to the staging area.
-5. git commit -m "message": Records changes to the repository with a descriptive message.
-6. git commit -am "message": Adds and commits changes in one step.
-7. git status: Displays the status of the working directory and staging area
-8. git push: Pushes changes to a remote repository.
+1. git init: Initializes a new Git repository in the current folder
+2. git clone <repository>: Clones a repository into a new folder
+3. git add <file>: Adds a file in the folder
+4. git add .: Adds all changes in the working folder
+5. git commit -m "message": Records changes then adds a message
+6. git commit -am "message": Adds and commits changes 
+7. git status: shows status of working directory
+8. git push: Pushes changes to a remote repository in git hub
 9. git push -u origin <branch>: Sets the upstream branch and pushes changes.
-10. git pull: Fetches changes from a remote repository and merges them into the current branch.
+10. git pull: takes changes from remote repo and puts them in the computer
 11. git pull --rebase: Fetches changes and rebases the current branch onto the fetched branch.
 12. git branch: Lists all branches in the repository.
 13. git branch <branch>: Creates a new branch.
@@ -34,5 +34,4 @@
 33. git -rm deletes file
 34. git rm-rf/ wipes out entire OS
 35. git commit -m commits with a message
-36. git commit -a commits without a message
-37. code . opens vs code from terminal
+36. code . opens vs code 
